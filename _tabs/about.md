@@ -4,11 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
----
-layout: post
-title: "First Notes"
----
-
 I'm Ansh, a high school student. This blog is where I'll document what I learn
 about systems I/O: how programs actually move bytes between disk, memory,
 the kernel, and the network, and what it costs.
